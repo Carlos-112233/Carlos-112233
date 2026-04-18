@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/tuImagen.jpg" width="100%">
-</p>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Hola, soy Carlos
